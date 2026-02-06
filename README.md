@@ -37,9 +37,16 @@ Each Data Flow Task is optimized with specific transformations:
 ### Control Flow Execution
 ![Control Flow](./Images/Control%20Flow.png)
 
-### Data Flow Logic (Examples)
-| Category Analysis | Brand Analysis |
+### Data Flow Logic  
+| Product Analysis | Brand Analysis |
 | :--- | :--- |
-| ![Category](./Images/Category%20Analysis.png) | ![Brand](./Images/Brand%20Analysis.png) |
+| ![Product](./Images/Product%20Analysis.png) | ![Brand](./Images/Brand%20Analysis.png) |
 
----
+#### **Category & Channel Analysis**
+| Category Analysis | Channel Analysis |
+| :--- | :--- |
+| ![Category](./Images/Category%20Analysis.png) | ![Channel](./Images/Channel%20Analysis.png) |
+
+#### **Sales Overtime**
+The simplified pipeline for temporal sales tracking.
+![Sales Overtime](./Images/Sales%20Overtime.png)
