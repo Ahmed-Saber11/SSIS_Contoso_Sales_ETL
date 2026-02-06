@@ -35,11 +35,11 @@ Each Data Flow Task is optimized with specific transformations:
 ## Visualizations
 
 ### Control Flow Execution
-![Control Flow](./Screenshots/Control%20Flow.png)
+![Control Flow](./Images/Control%20Flow.png)
 
 ### Data Flow Logic (Examples)
 | Category Analysis | Brand Analysis |
 | :--- | :--- |
-| ![Category](./Screenshots/Category%20Analysis.png) | ![Brand](./Screenshots/Brand%20Analysis.png) |
+| ![Category](./Images/Category%20Analysis.png) | ![Brand](./Images/Brand%20Analysis.png) |
 
 ---
